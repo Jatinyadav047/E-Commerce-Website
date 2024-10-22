@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(143, 143, 143);
+    
+}
+.navbar-brand img{
+    margin-left:10px;
+    height:10%;
+    width:20%
+}
+#top{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    text-align: center;
+    background-color:rgb(0, 0, 75);
+    color: aliceblue;
+    padding: 5px 0;
+}
+.navbar{
+    position: relative;
+    margin-top: 20px;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.container1 img{
+    height: 30%;
+    width:100%;
+}
